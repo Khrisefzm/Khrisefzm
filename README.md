@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Franchesca Zegarra</h1>
+<h1 align="center">Hi 👋, I'm Khrise Franchesca Zegarra Muñoz</h1>
 <h3 align="center">A passionate Full Stack developer from Peru</h3>
 
 - 👨‍💻 All of my projects are available at [franchescazegarra.com](franchescazegarra.com)
