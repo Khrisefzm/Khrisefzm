@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khrise Franchesca Zegarra Muñoz</h1>
 <h3 align="center">A passionate Full Stack developer from Peru</h3>
 
-- 👨‍💻 All of my projects are available at [franchescazegarra.com](franchescazegarra.com)
-
 - 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, Python, Flask**
 
 - 📫 How to reach me **info@franchescazegarra.com**
