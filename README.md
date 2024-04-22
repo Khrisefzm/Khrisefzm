@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, Python, Flask**
 
-- 📫 How to reach me **info@franchescazegarra.com**
+- 📫 How to reach me **kzegarram@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
